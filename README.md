@@ -1,7 +1,7 @@
 # Buscaminas en Python con Pygame
 
 ## Descripción
-Este es un juego de Buscaminas implementado en Python utilizando la biblioteca Pygame. El juego incluye una interfaz gráfica que permite al usuario descubrir casillas y marcar las que contienen bombas. El usuario pierde si toca una casilla que contiene una bomba y gana si logra descubrir todas las bombas del tablero. El programa brinda tres niveles de dificultad: fácil, medio, difícil.  
+Este es un juego de Buscaminas implementado en Python utilizando la biblioteca Pygame. El juego incluye una interfaz gráfica que permite al usuario descubrir casillas y marcar las que contienen bombas. El usuario pierde si toca una casilla que contiene una bomba y gana si logra descubrir todas las casillas sin bomba del tablero. El programa brinda tres niveles de dificultad: fácil, medio, difícil.  
 
 ## Requisitos y Dependencias
 - Python 3  
